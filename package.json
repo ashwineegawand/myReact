@@ -1,0 +1,17 @@
+{
+  "name": "namaste-react-24",
+  "version": "1.0.0",
+  "description": "This is React App",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Ashwini Gawand",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
